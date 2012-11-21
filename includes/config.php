@@ -1,6 +1,6 @@
 $info = array(
 	'firstName'		=> 'Denis',
-	'lastName'		=> 'Smith',
+	'lastName'		=> 'Kuchin',
 	'photoURL'		=> '/img/photo.jpg',
 	'birthDay'		=> strtotime('07-08-1989'),
 	'city'			=> 'Penza',
